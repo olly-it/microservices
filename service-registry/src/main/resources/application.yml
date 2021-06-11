@@ -1,0 +1,9 @@
+# thanks to: https://www.youtube.com/watch?v=BnknNTN8icw
+
+server:
+  port: 8761
+
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
