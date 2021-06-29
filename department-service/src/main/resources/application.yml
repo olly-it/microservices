@@ -1,4 +1,9 @@
+# Microservices using SpringBoot | Full Example
 # thanks to: https://www.youtube.com/watch?v=BnknNTN8icw
+
+# Kubernetes Tutorial For Beginners - with Java and Spring Boot Microservices
+# https://github.com/in28minutes/kubernetes-crash-course
+# https://www.youtube.com/watch?v=rTNR7vDQDD8
 
 server:
   port: 9001
