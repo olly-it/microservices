@@ -1,4 +1,4 @@
-package olly.it.microservices.configserver;
+package it.olly.microservices.configserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package ollyit.configserver;
+package it.olly.microservices.configserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
